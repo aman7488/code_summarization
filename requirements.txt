@@ -1,0 +1,7 @@
+re
+pandas
+numpy
+spacy
+matplotlib
+sklearn
+tensorflow
